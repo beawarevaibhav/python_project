@@ -1,0 +1,92 @@
+[
+    {
+        "account": "981315",
+        "type": "Initial Deposit",
+        "amount": 1000.0,
+        "date": "2025-04-10 19:25:22"
+    },
+    {
+        "account": "236110",
+        "type": "Initial Deposit",
+        "amount": 1000.0,
+        "date": "2025-04-11 10:15:42"
+    },
+    {
+        "account": "780585",
+        "type": "Initial Deposit",
+        "amount": 100.0,
+        "date": "2025-04-11 12:01:21"
+    },
+    {
+        "account": "780585",
+        "type": "Deposit",
+        "amount": 100.0,
+        "date": "2025-04-11 12:02:22"
+    },
+    {
+        "account": "780585",
+        "type": "Deposit",
+        "amount": 5000.0,
+        "date": "2025-04-11 12:02:27"
+    },
+    {
+        "account": "780585",
+        "type": "Withdrawal",
+        "amount": 200.0,
+        "date": "2025-04-11 12:02:32"
+    },
+    {
+        "account": "200926",
+        "type": "Initial Deposit",
+        "amount": 100.0,
+        "date": "2025-04-11 13:50:47"
+    },
+    {
+        "account": "200926",
+        "type": "Deposit",
+        "amount": 100.0,
+        "date": "2025-04-11 13:51:19"
+    },
+    {
+        "account": "200926",
+        "type": "Withdrawal",
+        "amount": 50.0,
+        "date": "2025-04-11 13:51:24"
+    },
+    {
+        "account": "375943",
+        "type": "Initial Deposit",
+        "amount": 1000.0,
+        "date": "2025-04-11 16:16:06"
+    },
+    {
+        "account": "375943",
+        "type": "Deposit",
+        "amount": 100.0,
+        "date": "2025-04-11 16:16:32"
+    },
+    {
+        "account": "375943",
+        "type": "Withdrawal",
+        "amount": 1000.0,
+        "date": "2025-04-11 16:16:36"
+    },
+    {
+        "account": "505045",
+        "type": "Initial Deposit",
+        "amount": 600.0,
+        "date": "2025-04-11 16:40:52"
+    },
+    {
+        "account": "505045",
+        "type": "Deposit",
+        "amount": 100.0,
+        "date": "2025-04-11 16:41:15"
+    },
+    {
+        "account": "505045",
+        "type": "Withdrawal",
+        "amount": 200.0,
+        "date": "2025-04-11 16:41:19"
+    }
+]
